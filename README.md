@@ -1,4 +1,6 @@
-Leaflet map  for putting noise data points on a map.
+Visualization code for noise data collection within Kampala District
+This is deplyed @ https://sunbirdai.github.io/noise-data-mapping/
+
 ### Features
 * Data is in tabular delimited-text (csv, etc.) with two required columns: `lat` and `lng`
 * Points are plotted on full-screen 

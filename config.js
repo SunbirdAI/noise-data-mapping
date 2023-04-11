@@ -1,4 +1,4 @@
-var dataUrl = 'data7.csv';
+var dataUrl = 'sunbird3.csv';
 var maxZoom = 18;
 var fieldSeparator = ',';
 var baseUrl = 'http://a.tile.openstreetmap.org/{z}/{x}/{y}.png';
