@@ -1,4 +1,4 @@
-var dataUrl = 'data4.csv';
+var dataUrl = 'data8.csv';
 var maxZoom = 18;
 var fieldSeparator = ',';
 var baseUrl = 'http://a.tile.openstreetmap.org/{z}/{x}/{y}.png';
